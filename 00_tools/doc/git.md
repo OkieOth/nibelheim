@@ -1,0 +1,1 @@
+All the fancy information about git.
