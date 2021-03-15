@@ -7,9 +7,7 @@ description = """Mine simulator
 def initMineWithGold(mineParam):
     print ('now it gives some gold ...')
     # hard coded will improved later
-    mineParam[2] = 1
-    mineParam[7] = 1
-    mineParam[15] = 1
+    # TODO: initialize the mine with random gold spots
     print ('done.')
 
 

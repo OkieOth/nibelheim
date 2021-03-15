@@ -6,3 +6,11 @@ One dwarf is moving over the "board" and if he finds gold he put it in his pocke
 # Requirements
 * Python
 * an editor (e.g. vscode)
+
+# What to learn
+* some basic stuff (variables, arrays, init function, ...)
+
+```bash
+cd DIR_OF_THE_LESSON
+python src/nibelheim.py
+```

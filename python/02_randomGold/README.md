@@ -6,3 +6,6 @@ One dwarf is moving over the "board" and if he finds gold he put it in his pocke
 # Requirements
 * Python
 * an editor (e.g. vscode)
+
+# Improvements compared to 01
+* the mine get filled with random gold spots
